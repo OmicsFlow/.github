@@ -4,5 +4,7 @@
 ## 1.GenomicsFlow
 
 ### 1.1 GenomicsFlowCode
+![Flow Graph](/profile/graph.png)
 
 ### 1.2 GenomicsFlowDesktop
+![Desktop](/profile/desktop.png)
